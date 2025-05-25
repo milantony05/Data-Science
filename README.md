@@ -1,2 +1,2 @@
 # DataScienceEcosystem
-Jupyter Notebooks
+Jupyter Notebook
